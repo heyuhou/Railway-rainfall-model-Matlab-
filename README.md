@@ -10,10 +10,8 @@ Zhivomirov, H. (2025) Monte Carlo Estimation Examples with Matlab. MATLAB Centra
 
 | File / Folder             | Description |
 |---------------------------|-------------|
-| `Railway_track.cpg`, `.dbf`, `.prj`, `.qmd` | GIS shapefile components for UK railway track data. 
-RailEasyUK (2022) Railway GIS data. Available at: https://github.com/raileasyuk/railway-gis-data (Accessed: 24 June 2025). |
-| `euro_pr.tif`              | Climate raster data (projected rainfall, from IPCC Interactive Atlas). 
-IPCC (n.d.) Interactive Atlas. Available at: https://interactive-atlas.ipcc.ch/ (Accessed: 11 July 2025). |
+| `Railway_track.cpg`, `.dbf`, `.prj`, `.qmd` | GIS shapefile components for UK railway track data. RailEasyUK (2022) Railway GIS data. Available at: https://github.com/raileasyuk/railway-gis-data (Accessed: 24 June 2025). |
+| `euro_pr.tif`              | Climate raster data (projected rainfall, from IPCC Interactive Atlas). IPCC (n.d.) Interactive Atlas. Available at: https://interactive-atlas.ipcc.ch/ (Accessed: 11 July 2025). |
 | `rail_with_rain.csv`       | Merged dataset of railway segments with corresponding rainfall exposure values. |
 | `trackpr.m`                | Main MATLAB script for processing railway and rainfall data, and running analyses. |
 
