@@ -2,7 +2,7 @@
 
 The code used in this research has been modified by Li et al. (2024)** and **Zhivomirov (2025).  
 
-Li, Q., Punzo, G., Robson, C., Arbabi, H. and Mayfield, M. (2024) 'A systematic approach to climate resilience assessment of infrastructure networks', IEEE Systems Journal, 18(1), pp. 24–35. Available at: https://doi.org/10.1109/JSYST.2023.3329765.
+Li, Q., Punzo, G., Robson, C., Arbabi, H. and Mayfield, M. (2024) 'A systematic approach to climate resilience assessment of infrastructure networks', IEEE Systems Journal, 18(1), pp. 24–35. Available at: https://doi.org/10.1109/JSYST.2023.3329765.  
 
 Zhivomirov, H. (2025) Monte Carlo Estimation Examples with Matlab. MATLAB Central File Exchange. Available at: https://www.mathworks.com/matlabcentral/fileexchange/55306-monte-carlo-estimation-examples-with-matlab (Accessed: 6 July 2025).
 
