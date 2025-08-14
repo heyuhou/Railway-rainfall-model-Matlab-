@@ -1,16 +1,3 @@
-# Railway Rainfall Model (MATLAB)
-
-This repository contains the MATLAB scripts and data used in the dissertation project:
-
-> **Rail-ising the Potential of UK Infrastructure Stocks: Quantifying the Material Stock and Assessing Climate Vulnerability of the UK Railway System**  
-> MSc Cognitive and Computational Neuroscience, University of Sheffield  
-> Author: Yuhou He  
-> Supervisor: Dr. Hadi Arbabi
-
-The project applies **Material Stock and Flow Analysis (MSFA)**, climate exposure mapping, and fragility function modelling to assess the resilience of the UK national railway network under extreme rainfall scenarios.
-
----
-
 ## Repository Contents
 
 | File / Folder             | Description |
@@ -40,19 +27,3 @@ The repository includes MATLAB code for:
 
 5. **Forecasting Material Needs under Adaptation Scenarios**  
    Estimating additional material demand (track, ballast, etc.) under climate adaptation strategies.
-
----
-
-## Requirements
-
-- **MATLAB** (tested with R2024a or later)
-- Mapping Toolbox
-- Statistics and Machine Learning Toolbox
-
----
-
-## How to Run
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/heyuhou/Railway-rainfall-model-Matlab.git
